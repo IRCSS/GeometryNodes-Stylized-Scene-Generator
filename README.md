@@ -6,7 +6,7 @@ Procedural Stylized Scene Generator With Geometry Node in Blender 3D
 
 This repo contains Geometry nodes generating the images shown above. Both scenes are viewable downloadable on my sketchfab. You will find the [Autumn](https://skfb.ly/oCNu9) scene here and the [Winter](https://skfb.ly/oCBKI) here. 
 
-I have covered the workflows and concepts in this blog post here: [Will be added soon]
+I have covered the workflows and concepts in this blog post here: https://shahriyarshahrabi.medium.com/blender-geometry-nodes-create-stylized-scenes-e336967c7f84
 
 To get the Winter scene, switch to the Master branch. The main branch only contains the Autumn demo scene. This was made and tested on Windows, Blender 3.4.1
 
